@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in [Nexo](https://nexo.com)
 
-- 🌱 I’m currently learning **Spring** & **React.js**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **kristiyanmitrofanov@gmail.com**
 
@@ -20,7 +20,6 @@
 </p>
 
 <br> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kristiyanmitrofanov&show_icons=true&locale=en&layout=compact" alt="kristiyanmitrofanov" />
 
 <div style="display: inline">
 <h3 align="left">Languages and Tools:</h3>
