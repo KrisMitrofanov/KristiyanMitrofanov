@@ -64,6 +64,7 @@
             <li>Designing Data-Intensive Applications (Martin Kleppmann)</li>
             <li>Kafka In Action (Dylan Scott, Dave Klein, Viktor Gamov)</li>
             <li>Kafka Streams In Action (William P. Bejeck Jr.)</li>
+            <li>You Don't Know JS Yet (Kyle Simpson)</li>
 </ul>
 
 
