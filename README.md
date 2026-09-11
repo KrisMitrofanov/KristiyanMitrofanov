@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working in [Payhawk](https://payhawk.com)
 
-- 🌱 I’m currently learning **Rust**
-
 - 📫 How to reach me **kristiyanmitrofanov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
